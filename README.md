@@ -1,117 +1,21 @@
-<div align="center">
-
-<img src="assets/profile-hero.svg" width="100%" alt="Bijesh Kumar — Build beyond the ordinary" />
-
-
-<a href="https://github.com/kumarBijesh">
-  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATIONS-1677FF?style=flat-square&labelColor=101827&color=1677FF" alt="Open to collaborations" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=kumarBijesh&style=flat-square&color=1677FF&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
-<img align="right" width="38%" src="assets/build-card.svg" alt="Build beyond the ordinary" />
-
-01 / THE DEVELOPER
-Hey, I'm Bijesh.
-I build useful software, scalable backends, and thoughtful digital experiences — from the first interface to deployment.
-I work across full-stack development, APIs, cloud infrastructure, and security-minded engineering. I like solving real problems and making the solution clean enough to maintain.
-<br clear="right"/>
-
-02 / IDEAS. BUILT DIFFERENT.
-<div align="center">
-  <img src="assets/ideas-flow.svg" width="100%" alt="Turn curiosity into impact: discover, engineer, deliver" />
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-01 — Discover
-Understand the user, the problem, and what success should look like.
-</td>
-<td width="33%" valign="top">
-
-02 — Engineer
-Design the architecture, build the product, and test the important paths.
-</td>
-<td width="33%" valign="top">
-
-03 — Deliver
-Deploy, measure, improve, and make it dependable in the real world.
-</td>
-</tr>
-</table>
-
-03 / THE TOOLKIT
-<div align="center">
-
-FRONTEND
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" alt="Frontend technologies" />
-
-BACKEND & DATA
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis&theme=dark" alt="Backend technologies" />
-
-CLOUD / ENGINEERING
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash&theme=dark" alt="Cloud and engineering tools" />
-
-</div>
-
-04 / SELECTED BUILDS
-Pick your strongest public repositories and pin them to your GitHub profile. Replace these category links with direct links to your actual projects.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-01 / FULL-STACK PRODUCTS
-Interfaces and end-to-end application workflows, built around real user needs.
-Explore repositories ↗
-</td>
-<td width="50%" valign="top">
-
-02 / BACKEND & API SYSTEMS
-APIs, integrations, data models, authentication, and reliable service logic.
-Explore repositories ↗
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-03 / CLOUD & DEPLOYMENT
-Deployment workflows and infrastructure using cloud and container tools.
-Explore repositories ↗
-</td>
-<td width="50%" valign="top">
-
-04 / SECURITY-MINDED BUILDING
-Application security, safer access patterns, validation, and secure configuration.
-Explore repositories ↗
-</td>
-</tr>
-</table>
-
-05 / GITHUB SIGNAL
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumarBijesh&show_icons=true&hide_border=true&bg_color=0B1020&title_color=55B7FF&text_color=E6EDF7&icon_color=55B7FF&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarBijesh&layout=compact&hide_border=true&bg_color=0B1020&title_color=55B7FF&text_color=E6EDF7" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=kumarBijesh&hide_border=true&background=0B1020&ring=55B7FF&fire=FF4D6D&currStreakLabel=E6EDF7&sideLabels=E6EDF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA8BC" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-
-BUILD. LEARN. REPEAT.
-Have a good problem to solve? Let's build something that matters.
-<a href="https://github.com/kumarBijesh">
-  <img src="https://img.shields.io/badge/SEE%20MY%20CODE-kumarBijesh-101827?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" />
-</a>
+# 💫 About Me:
+Hi, I’m Bijesh Kumar. I love building things with technology, whether it’s a website, an Android app, or a tool that helps keep people safe online. I’ve done my Master’s in Computer Applications and also have a background in Economics.<br><br>Over the past few years, I’ve worked on all kinds of projects — from creating a tool that detects fake news using machine learning, to making a web app that scans files and images for hidden threats. I’ve also built Android apps in Kotlin and explored how to host secure applications on AWS.<br><br>I enjoy learning new things, especially about cybersecurity and how to make software more secure and user-friendly. I’ve completed some great certifications along the way, like Google’s Foundations of Cybersecurity and Meta’s React basics.<br><br>Right now, I’m looking for opportunities where I can grow as a software developer or cybersecurity professional and work on projects that really make a difference. When I’m not coding, I like reading about new tech trends or trying out small coding challenges just for fun.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bijesh-kumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b.k.lpuinsta@gmail.com) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kumarBijesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kumarBijesh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarBijesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<sub>Full-stack engineering · Cloud · Security · Always building</sub>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kumarBijesh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kumarBijesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
