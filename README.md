@@ -1,21 +1,75 @@
-# 💫 About Me:
-Hi, I’m Bijesh Kumar. I love building things with technology, whether it’s a website, an Android app, or a tool that helps keep people safe online. I’ve done my Master’s in Computer Applications and also have a background in Economics.<br><br>Over the past few years, I’ve worked on all kinds of projects — from creating a tool that detects fake news using machine learning, to making a web app that scans files and images for hidden threats. I’ve also built Android apps in Kotlin and explored how to host secure applications on AWS.<br><br>I enjoy learning new things, especially about cybersecurity and how to make software more secure and user-friendly. I’ve completed some great certifications along the way, like Google’s Foundations of Cybersecurity and Meta’s React basics.<br><br>Right now, I’m looking for opportunities where I can grow as a software developer or cybersecurity professional and work on projects that really make a difference. When I’m not coding, I like reading about new tech trends or trying out small coding challenges just for fun.
+<div align="center">
+
+<img src="assets/github-dashboard.svg" width="100%" alt="Bijesh Kumar GitHub developer dashboard" />
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bijesh-kumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b.k.lpuinsta@gmail.com) 
+<a href="https://github.com/kumarBijesh"><img src="https://img.shields.io/badge/GITHUB-kumarBijesh-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+ 
+<a href="https://github.com/kumarBijesh?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-Explore-0d1117?style=flat-square&logo=github&logoColor=58a6ff" alt="Repositories" /></a>
+ 
+<a href="https://github.com/kumarBijesh?tab=stars"><img src="https://img.shields.io/badge/STARS-See%20what%20I%20like-0d1117?style=flat-square&logo=github&logoColor=58a6ff" alt="Starred repositories" /></a>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kumarBijesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kumarBijesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarBijesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+01 / Live GitHub metrics
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumarBijesh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarBijesh&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top programming languages" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kumarBijesh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=kumarBijesh&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak statistics" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=kumarBijesh&icon=0&color=0)](https://visitcount.itsvg.in)
+02 / Contribution activity
+<div align="center">
+  <img src="https://ghchart.rshah.org/3fb950/kumarBijesh" alt="GitHub contribution chart for kumarBijesh" width="100%" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+03 / What I build
+<table>
+<tr>
+<td width="50%" valign="top">
+
+◈ Full-stack applications
+Building useful interfaces and end-to-end product workflows with modern frontend and backend tools.
+</td>
+<td width="50%" valign="top">
+
+◈ Backend & integrations
+Developing APIs, service logic, authentication flows, data models, and third-party integrations.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+◈ Cloud & deployment
+Working with AWS, Docker, Linux, and repeatable deployment practices.
+</td>
+<td width="50%" valign="top">
+
+◈ Security-minded engineering
+Keeping access control, input validation, secrets, and application safety in mind while building.
+</td>
+</tr>
+</table>
+
+04 / Technology map
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,django,fastapi,postgres,mysql,aws,docker,linux,git,github&theme=dark" alt="Technology stack" />
+
+</div>
+
+05 / Featured repositories
+<div align="center">
+  <a href="https://github.com/kumarBijesh?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-58a6ff?style=for-the-badge&logo=github&logoColor=0d1117" alt="View all projects" />
+  </a>
+</div>
+
+Tip: Pin your best 4–6 repositories on your GitHub profile. For each project, add a clear README with its purpose, stack, screenshots, setup steps, and what you learned.
+<div align="center">
+
+BUILD · MEASURE · IMPROVE
+<sub>Full-stack engineering / Backend systems / Cloud / Security</sub>
+</div>
